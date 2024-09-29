@@ -1,0 +1,13 @@
+autogluon
+geemap
+matplotlib
+earthengine-api
+folium
+branca
+Pillow
+jinja2
+scikit-learn==1.3.2
+django
+openyxl
+
+https://auto.gluon.ai/stable/install.html
